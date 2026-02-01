@@ -1,0 +1,18 @@
+the main goal is to design and analyze methods for computing numerical values - in order to achieve that we approximate, and in order to assess that we assess the work or resources needed to achieve that level of accuracy by assessing i) cost ii) or speed iii) or the efficiency of resource usage
+
+For a while we are interested in:
+i) Finding zeroes of a function
+ii) Solving Ax = b
+iii) Least Squares
+iv) Approximating functions by polynomials
+v) approximating derivatives and integrals
+vi) solving odes
+vii) finding the minimum of a function 
+
+Root Finding 
+
+1. Bisection methods
+After implementation we will focus on improving it in - reliability or robustness; accuracy and speed or cost.
+
+Example: x = cos x
+
